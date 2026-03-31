@@ -53,16 +53,6 @@ It allows users to create **high-quality, customizable QR codes** for multiple u
 
 ---
 
-## 🚀 Live Demo
-
-👉 *(Add your GitHub Pages link here)*
-
-```
-https://your-username.github.io/dynamic-qr-generator/
-```
-
----
-
 ## 📂 Project Structure
 
 ```
