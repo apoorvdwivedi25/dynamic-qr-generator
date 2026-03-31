@@ -11,6 +11,12 @@ It allows users to create **high-quality, customizable QR codes** for multiple u
 
 ---
 
+## 📸 Preview
+
+
+![video](demo.gif)
+
+------------
 ## 🔥 Features
 
 * ⚡ **Instant QR Generation** (real-time preview)
@@ -47,12 +53,6 @@ It allows users to create **high-quality, customizable QR codes** for multiple u
 
 ---
 
-## 📸 Preview
-
-![App Preview](https://via.placeholder.com/1200x600?text=QRCraft+Preview)
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -62,19 +62,20 @@ It allows users to create **high-quality, customizable QR codes** for multiple u
 ```
 
 ---
+## ⚙️ Run Locally
 
-## ⚙️ How to Run Locally
+Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/dynamic-qr-generator.git
 cd dynamic-qr-generator
 ```
 
-Then simply open:
+Open the project:
 
-```bash
-qr.html
-```
+* Double-click `qr.html`
+  **or**
+* Open it in your browser
 
 ---
 
@@ -106,13 +107,6 @@ For major changes, please open an issue first.
 
 ---
 
-## 👨‍💻 Author
-
-**Apoorv Dwivedi**
-🚀 Software Developer | Backend & Web Enthusiast
-
----
-
 ## ⭐ Support
 
 If you like this project:
@@ -123,6 +117,19 @@ If you like this project:
 
 ## 📜 License
 
-This project is open-source and free to use.
+
+Copyright © 2026 - Apoorv Dwivedi
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ---
